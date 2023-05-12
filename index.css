@@ -5,13 +5,13 @@ body, html {
 }
 
 h5 {
-    font-size: 28pt;
+    font-size: 16pt;
     margin: 0;
 }
 h1 {
     font-family: 'PP Neue Machina';
     font-weight: 400;
-    font-size: 64pt;
+    font-size: 32pt;
     color: #CD0E18;
 }
 
@@ -28,7 +28,7 @@ h1 {
     color: #CD0E18;
     border-style: solid;
     border-color: #CD0E18;
-    height: 77px;
+    height: 50px;
     font-size: 15pt;
     padding: 10px;
     width: 1037px;
@@ -41,7 +41,7 @@ h1 {
 
 #subType{
     color: #CD0E18;
-    font-size: 12pt;
+    font-size: 10pt;
     text-align: left;
     font-family: 'Inter';
     margin: 0;
@@ -52,8 +52,6 @@ button{
     border-style: none;
     color: white;
     font-family: 'PP Neue Machina';
-    font-size: 20pt;
-    padding: 10px;
-    width: 201px;
-    height: 102px;
+    font-size: 15pt;
+    padding: 20px;
 }
